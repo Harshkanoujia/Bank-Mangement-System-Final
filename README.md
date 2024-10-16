@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshkanoujia](https://github.com/Harshkanoujia)
 
-- 📫 How to reach me **kanoujia.9harsh@gmail.com**
+- 📫 How to reach me /*kanoujia.9harsh@gmail.com*/
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vINz6b_sH-g_lh7mSXJbs8Vv_1DdSTXD/view?usp=drive_link](https://drive.google.com/file/d/1vINz6b_sH-g_lh7mSXJbs8Vv_1DdSTXD/view?usp=drive_link)
 
