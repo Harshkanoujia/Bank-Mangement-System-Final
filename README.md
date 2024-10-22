@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Backend developer from Mohali,Punjab</h3>
  
-- 🔭 Basically this project is a Team Project.
+- 🔭 Basically this project is a Team Project .
                       
-- 🌱 And this project is Bank Management System Final
+- 🌱 This project is Bank Management System Final.
 
 - 🌱 I’m using the languages in this project are Java and xml.
 
